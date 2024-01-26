@@ -5,7 +5,7 @@
 <!-- Add typing Text -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&size=30&pause=1000&center=true&vCenter=true&width=550&height=70&lines=Hey+There%2C+I'm+Nitish+Raj;I+Love+Coding;Full+Stack+Web+Developer;Loves+To+Build+Projects+;A+Problem+Solver" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&size=30&pause=1000&center=true&vCenter=true&width=550&height=70&lines=Hey+There%2C+I'm+Khushi;I+Love+Coding;Full+Stack+Web+Developer;Loves+To+Build+Projects+;A+Problem+Solver" alt="Typing SVG">
 </p>
 
 <!-- self introduction -->
@@ -15,10 +15,10 @@
 
  ```java
   public class WhoAmI {
-   private static String user = "Nitish Raj";
+   private static String user = "Khushi";
    private static String current_edu = "B.C.A";
    private static String currently_learning = "MERN Stack";
-   private static String fun_fact = "i love playing cricket";
+   private static String fun_fact = "i love listening music";
    private static String[] hobbies = {
        "Music",
        "Chilling",
@@ -41,7 +41,7 @@
  
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=nitishrajpandey&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitishrajpandey&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Khushi2486&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi2486&theme=github_dark"/>
 |---|---|
 
 <!-- programming language  -->
@@ -100,28 +100,28 @@
 <h2 align="center"> Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nitish-raj-a93517238/"><img alt="Linkedin" title="Nitish raj Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/nitishraj0074?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"><img alt="Instagram" title="Nitish Raj Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<!--   <a href="https://www.linkedin.com/in/nitish-raj-a93517238/"><img alt="Linkedin" title="Nitish raj Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
+<!--   <a href="https://instagram.com/nitishraj0074?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"><img alt="Instagram" title="Nitish Raj Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
 
  </p>
  <p align="center">
-  <a href="mailto:nitishrajpandey0707@gmail.com"><img alt="Gmail" title="Nitish Raj Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a href="https://t.me/NitishRaj0707"><img alt="Telegram" title="Nitish Raj Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+<!--   <a href="mailto:nitishrajpandey0707@gmail.com"><img alt="Gmail" title="Nitish Raj Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
+<!--  <a href="https://t.me/NitishRaj0707"><img alt="Telegram" title="Nitish Raj Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>  -->
 <!-- <a href="http://twitter.com/"><img alt="Twitter" title="Nitish Raj Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> -->
 </p>
 <p align="center">
- <a href="https://github.com/nitishrajpandey"><img alt="Github" title="nitishrajpandey Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+ <a href="https://github.com/Khushi2486"><img alt="Github" title="Khushi2486 Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <p align="center">
     <a href="https://github.com/">
-        <img src="https://komarev.com/ghpvc/?username=nitishrajpandey" alt="nitishrajpandey" />
+        <img src="https://komarev.com/ghpvc/?username=Khushi2486" alt="Khushi2486" />
     </a>
-    <a href="https://github.com/nitishrajpandey">
-        <img height="20" src="https://img.shields.io/github/followers/nitishrajpandey?label=follow&logo=github" />
+    <a href="https://github.com/Khushi2486">
+        <img height="20" src="https://img.shields.io/github/followers/Khushi2486?label=follow&logo=github" />
 	</a>
-	 <a href="https://github.com/nitishrajpandey">
-        <img height="20" src="https://img.shields.io/github/stars/nitishrajpandey?label=stars&logo=github" />
+	 <a href="https://github.com/Khushi2486">
+        <img height="20" src="https://img.shields.io/github/stars/Khushi2486?label=stars&logo=github" />
 	</a>
 </p>
 
