@@ -17,7 +17,7 @@
   public class WhoAmI {
    private static String user = "Khushi";
    private static String current_edu = "B.C.A";
-   private static String currently_learning = "MERN Stack";
+   private static String currently_learning = "PYTHON";
    private static String fun_fact = "i love listening music";
    private static String[] hobbies = {
        "Music",
